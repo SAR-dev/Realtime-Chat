@@ -1,6 +1,6 @@
 # Project Title
 
-Realtime Chat using Chatkit
+Realtime Chat using Node.js, React.js and Chatkit
 
 See the [live version!](https://comicsghorchat.web.app)
 
